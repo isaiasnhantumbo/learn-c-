@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/bin/Debug/net6.0/ArraysELoops
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/bin/Debug/net6.0/ArraysELoops.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/bin/Debug/net6.0/ArraysELoops.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/bin/Debug/net6.0/ArraysELoops.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/bin/Debug/net6.0/ArraysELoops.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/refint/ArraysELoops.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ArraysELoops.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ArraysELoops/obj/Debug/net6.0/ref/ArraysELoops.dll
