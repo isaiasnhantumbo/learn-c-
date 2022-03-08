@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/bin/Debug/net6.0/Teste
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/bin/Debug/net6.0/Teste.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/bin/Debug/net6.0/Teste.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/bin/Debug/net6.0/Teste.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/bin/Debug/net6.0/Teste.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/refint/Teste.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/Teste.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/Teste/obj/Debug/net6.0/ref/Teste.dll
