@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/bin/Debug/net6.0/VariaveisEOperadores
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/bin/Debug/net6.0/VariaveisEOperadores.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/bin/Debug/net6.0/VariaveisEOperadores.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/bin/Debug/net6.0/VariaveisEOperadores.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/bin/Debug/net6.0/VariaveisEOperadores.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/refint/VariaveisEOperadores.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/VariaveisEOperadores.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/VariaveisEOperadores/obj/Debug/net6.0/ref/VariaveisEOperadores.dll
