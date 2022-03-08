@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/bin/Debug/net6.0/IntroducaoPOO
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/bin/Debug/net6.0/IntroducaoPOO.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/bin/Debug/net6.0/IntroducaoPOO.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/bin/Debug/net6.0/IntroducaoPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/bin/Debug/net6.0/IntroducaoPOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/refint/IntroducaoPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/IntroducaoPOO.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/IntroducaoPOO/obj/Debug/net6.0/ref/IntroducaoPOO.dll
