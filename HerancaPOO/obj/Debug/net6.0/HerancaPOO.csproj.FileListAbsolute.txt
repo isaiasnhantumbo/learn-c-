@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/bin/Debug/net6.0/HerancaPOO
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/bin/Debug/net6.0/HerancaPOO.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/bin/Debug/net6.0/HerancaPOO.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/bin/Debug/net6.0/HerancaPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/bin/Debug/net6.0/HerancaPOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/refint/HerancaPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/HerancaPOO.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/HerancaPOO/obj/Debug/net6.0/ref/HerancaPOO.dll
