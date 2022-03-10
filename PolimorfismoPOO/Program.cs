@@ -1,4 +1,5 @@
-﻿public class Person
+﻿
+public class Person
 {
     protected string Name { set; get; }
     protected int Age { set; get; }
@@ -14,8 +15,11 @@
         Name = name;
         Age = age;
     }
+    public virtual void Print()
+    {
+        Console.WriteLine($"Nome:{Name}, Idade:{Age}");
+    }
 }
-
 public class Student : Person
 {
     protected double Test1 { get; set; }
@@ -29,7 +33,7 @@ public class Student : Person
         Test2 = test2;
     }
 
-            
+
 
     public double CalculateAvarage()
     {
@@ -51,7 +55,7 @@ public class Student : Person
         return "Reprovado";
     }
 
-    public void PrintStudent()
+    public override void Print()
     {
         Console.WriteLine(
             $"Nome:{Name}, Idade:{Age}, Situação Academica:{ShowStudentSituation()}, " +
@@ -64,13 +68,10 @@ public class Program
 {
     public static void Main()
     {
-        Student student0 = new Student("Isaias", 18, 12, 7);
-        Student student1 = new Student("Laerson", 20, 14, 11);
-        Student student2 = new Student("Teresa", 19, 18, 15);
-        student0.PrintStudent();
-        Console.WriteLine();
-        student1.PrintStudent();
-        Console.WriteLine();
-        student2.PrintStudent();
+        Person person = new Person("Larson", 8);
+        Student student = new Student("Isaias",18,12,10);
+         student.Print();
+         person.Print();
+
     }
 }

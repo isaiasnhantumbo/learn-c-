@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/bin/Debug/net6.0/PolimorfismoPOO
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/bin/Debug/net6.0/PolimorfismoPOO.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/bin/Debug/net6.0/PolimorfismoPOO.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/bin/Debug/net6.0/PolimorfismoPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/bin/Debug/net6.0/PolimorfismoPOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/refint/PolimorfismoPOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/PolimorfismoPOO.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/PolimorfismoPOO/obj/Debug/net6.0/ref/PolimorfismoPOO.dll
