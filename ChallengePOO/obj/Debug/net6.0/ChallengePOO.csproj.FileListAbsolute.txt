@@ -1,0 +1,15 @@
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/bin/Debug/net6.0/ChallengePOO
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/bin/Debug/net6.0/ChallengePOO.deps.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/bin/Debug/net6.0/ChallengePOO.runtimeconfig.json
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/bin/Debug/net6.0/ChallengePOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/bin/Debug/net6.0/ChallengePOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.csproj.AssemblyReference.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.AssemblyInfoInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.AssemblyInfo.cs
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.csproj.CoreCompileInputs.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/refint/ChallengePOO.dll
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.pdb
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ChallengePOO.genruntimeconfig.cache
+/Users/isaiasnhantumbo/RiderProjects/Solution1/ChallengePOO/obj/Debug/net6.0/ref/ChallengePOO.dll
