@@ -1,9 +1,7 @@
-namespace ChallengePOO;
+namespace ChallengePOO.Entities;
 
 public class Animal
 {
-    protected string Name { set; get; }
-
     public Animal()
     {
         Name = "Default name";
@@ -14,4 +12,5 @@ public class Animal
         Name = name;
     }
 
+    protected string Name { set; get; }
 }

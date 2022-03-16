@@ -2,6 +2,6 @@ namespace ChallengePOO;
 
 public enum AnimalTerrestrialType
 {
-    Wild,
-    Domestic
+    Selvagem,
+    Doméstico
 }
