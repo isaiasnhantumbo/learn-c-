@@ -1,4 +1,4 @@
-namespace ChallengePOO;
+namespace ChallengePOO.Enums;
 
 public enum AnimalTerrestrialType
 {
